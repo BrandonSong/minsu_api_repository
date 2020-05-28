@@ -1,0 +1,61 @@
+[ {
+  "uid" : "a11b5e682668d9d",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1590657400801,
+    "stop" : 1590657400972,
+    "duration" : 171
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11cb3d72abc04cb5",
+  "name" : "test_login",
+  "time" : {
+    "start" : 1590656148876,
+    "stop" : 1590656149054,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f65f85851cecc7",
+  "name" : "test_modify_password",
+  "time" : {
+    "start" : 1590656149058,
+    "stop" : 1590656149395,
+    "duration" : 337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e153deec81c73dbe",
+  "name" : "test_register",
+  "time" : {
+    "start" : 1590656148764,
+    "stop" : 1590656148872,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf280cf0c397e686",
+  "name" : "test_register",
+  "time" : {
+    "start" : 1590657400671,
+    "stop" : 1590657400796,
+    "duration" : 125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf018c697150c401",
+  "name" : "test_modify_password",
+  "time" : {
+    "start" : 1590657400976,
+    "stop" : 1590657401347,
+    "duration" : 371
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

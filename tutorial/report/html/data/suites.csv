@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 28 17:16:40 CST 2020","Thu May 28 17:16:41 CST 2020","371","test_case","test_user_module","TestUserModule","","","test_modify_password",""
+"passed","Thu May 28 17:16:40 CST 2020","Thu May 28 17:16:40 CST 2020","125","test_case","test_user_module","TestUserModule","","","test_register",""
+"passed","Thu May 28 16:55:48 CST 2020","Thu May 28 16:55:49 CST 2020","178","","TestUserModule","TestUserModule","","","test_login",""
+"passed","Thu May 28 17:16:40 CST 2020","Thu May 28 17:16:40 CST 2020","171","test_case","test_user_module","TestUserModule","","","test_login",""
+"passed","Thu May 28 16:55:48 CST 2020","Thu May 28 16:55:48 CST 2020","108","","TestUserModule","TestUserModule","","","test_register",""
+"passed","Thu May 28 16:55:49 CST 2020","Thu May 28 16:55:49 CST 2020","337","","TestUserModule","TestUserModule","","","test_modify_password",""
